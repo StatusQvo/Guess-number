@@ -37,7 +37,6 @@ margin-inline-start: 10%;
   display:flex;
   align-self: center;
   flex-direction: column;
-  width: 450px;
   background-color: rgb(212, 239, 230);
   border-radius: 20px 20px;
   border: 15px rgb(189, 173, 192) groove;
