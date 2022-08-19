@@ -12,7 +12,7 @@ const warMess    = document.querySelector('.warningMessage');
 
 let guessCount = 1;
 let resetButton;
-let warningMessage;
+guessField.focus();
 
 
 function checkGuess() {
