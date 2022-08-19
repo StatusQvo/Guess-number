@@ -1,0 +1,54 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+  background: 600px 800px rgb(196, 203, 215);
+  align-content: center;
+}
+
+h1 {
+display: flex;
+margin-inline-start: 10%;
+}
+
+
+.form input[type="number"] {
+  width: 200px;
+}
+
+
+.form{
+  align-self: center;
+
+}
+
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
+
+.allform{
+  display:flex;
+  align-self: center;
+  flex-direction: column;
+  width: 450px;
+  background-color: rgb(212, 239, 230);
+  border-radius: 20px 20px;
+  border: 15px rgb(189, 173, 192) groove;
+}
+
+.game-description{
+margin:30px 25px 25px 25px;
+}
+
+::placeholder{
+  color: rgb(173, 184, 161);
+  font-family: 'Rubik Distressed', cursive;
+  font-size: 14px;
+}
